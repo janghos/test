@@ -9,4 +9,4 @@ CREATE TABLE `member` (
   `ME_AD`  varchar(45) not null comment '扁夯林家',
   `ME_ADDT` varchar(45) not null comment '惑技林家', 
   `ME_DELYN` char not null comment '呕硼咯何'
-)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+)ENGINE=InnoDB DEFAULT CHARSET=utf8 ;
